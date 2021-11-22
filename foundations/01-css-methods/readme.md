@@ -1,0 +1,1 @@
+So here we go!  This is going to be my attempt to do the first three basic CSS assignments with only the notes I took in my notebook.  I know it's probably not going to work 100%, but it's worth a shot damnit~
